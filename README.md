@@ -1,4 +1,3 @@
 ## Hi there 👋
 
-- 🔭 I’m a Masters in Pharmacy student
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently learning data analytics and Android development
